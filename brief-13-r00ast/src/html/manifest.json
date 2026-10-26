@@ -1,0 +1,170 @@
+[
+ {
+  "html": "moodboard.html",
+  "out": "moodboard/r00ast-moodboard.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "00-cover.html",
+  "out": "brandbook/00-cover.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "01-brief.html",
+  "out": "brandbook/01-brief.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "02-logo-concepts.html",
+  "out": "brandbook/02-logo-concepts.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "03-logo-final.html",
+  "out": "brandbook/03-logo-final.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "04-logo-sizes.html",
+  "out": "brandbook/04-logo-sizes.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "05-colors.html",
+  "out": "brandbook/05-colors.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "06-typography.html",
+  "out": "brandbook/06-typography.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "07-elements.html",
+  "out": "brandbook/07-elements.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "08-tone-of-voice.html",
+  "out": "brandbook/08-tone-of-voice.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "09-stationery.html",
+  "out": "brandbook/09-stationery.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "10-mockups-packaging.html",
+  "out": "brandbook/10-mockups-packaging.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "11-mockups-merch.html",
+  "out": "brandbook/11-mockups-merch.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "12-guidelines-logo.html",
+  "out": "brandbook/12-guidelines-logo.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "13-guidelines-summary.html",
+  "out": "brandbook/13-guidelines-summary.png",
+  "w": 1920,
+  "h": 1080,
+  "scale": 1
+ },
+ {
+  "html": "card-light.html",
+  "out": "stationery/business-card-light.png",
+  "w": 1050,
+  "h": 585,
+  "scale": 1
+ },
+ {
+  "html": "card-dark.html",
+  "out": "stationery/business-card-dark.png",
+  "w": 1050,
+  "h": 585,
+  "scale": 1
+ },
+ {
+  "html": "letterhead.html",
+  "out": "stationery/letterhead-a4.png",
+  "w": 794,
+  "h": 1123,
+  "scale": 3.125
+ },
+ {
+  "html": "mock-bag.html",
+  "out": "mockups/bag.png",
+  "w": 500,
+  "h": 660,
+  "scale": 2
+ },
+ {
+  "html": "mock-cup.html",
+  "out": "mockups/cup.png",
+  "w": 420,
+  "h": 580,
+  "scale": 2
+ },
+ {
+  "html": "mock-apron.html",
+  "out": "mockups/apron.png",
+  "w": 450,
+  "h": 590,
+  "scale": 2
+ },
+ {
+  "html": "mock-loyalty-card.html",
+  "out": "mockups/loyalty-card.png",
+  "w": 630,
+  "h": 440,
+  "scale": 2
+ },
+ {
+  "html": "mock-menu.html",
+  "out": "mockups/menu.png",
+  "w": 520,
+  "h": 720,
+  "scale": 2
+ },
+ {
+  "html": "mock-signboard.html",
+  "out": "mockups/signboard.png",
+  "w": 1000,
+  "h": 640,
+  "scale": 2
+ }
+]

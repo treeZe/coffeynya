@@ -1,0 +1,25 @@
+<!doctype html><html lang="ru"><head><meta charset="utf-8"><title>06-typography</title><style>
+@font-face{font-family:Unbounded;src:url(../fonts/Unbounded-Regular.ttf);font-weight:400}
+@font-face{font-family:Unbounded;src:url(../fonts/Unbounded-SemiBold.ttf);font-weight:600}
+@font-face{font-family:Unbounded;src:url(../fonts/Unbounded-Bold.ttf);font-weight:700}
+@font-face{font-family:Manrope;src:url(../fonts/Manrope-Regular.ttf);font-weight:400}
+@font-face{font-family:Manrope;src:url(../fonts/Manrope-Medium.ttf);font-weight:500}
+@font-face{font-family:Manrope;src:url(../fonts/Manrope-Bold.ttf);font-weight:700}
+@font-face{font-family:Caveat;src:url(../fonts/Caveat-Bold.ttf);font-weight:700}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:Manrope;color:#2B2B2B;background:#F7F2EA}
+.slide{width:1920px;height:1080px;position:relative;overflow:hidden;background:#F7F2EA;
+  padding:90px 110px;page-break-after:always}
+.h1{font-family:Unbounded;font-weight:700;font-size:64px;color:#3B2418;letter-spacing:-1px}
+.h2{font-family:Unbounded;font-weight:600;font-size:30px;color:#3B2418}
+.kicker{font-family:Unbounded;font-weight:600;font-size:16px;letter-spacing:4px;
+  text-transform:uppercase;color:#C4613A;margin-bottom:22px}
+.body{font-size:22px;line-height:1.55}
+.hand{font-family:Caveat;font-weight:700;color:#C4613A}
+.pnum{position:absolute;right:110px;bottom:50px;font-family:Unbounded;font-size:14px;
+  color:#8C857D;letter-spacing:2px}
+.plogo{position:absolute;left:110px;bottom:46px;height:26px;opacity:.85}
+.grid{display:grid;gap:32px}
+.card{background:#fff;border-radius:28px;padding:40px}
+.cap{font-size:16px;color:#8C857D;margin-top:12px}
+ html,body{width:1920px}</style></head><body><section class="slide"><div class="kicker">06 · Color & Typo</div><div class="h1">Типографика</div><div style="display:flex;gap:70px;margin-top:40px"><div style="flex:1"><div style="display:grid;grid-template-columns:300px 1fr;gap:40px;padding:20px 0;border-top:1px solid #e2d6c6;align-items:center"><div><div style="font-weight:700">Text/H1</div><div class="cap" style="margin-top:4px">Unbounded Bold 64 / 110%</div></div><div style="font-family:Unbounded;font-weight:700;font-size:64px;line-height:1.1;color:#3B2418">Обжариваем сами</div></div><div style="display:grid;grid-template-columns:300px 1fr;gap:40px;padding:20px 0;border-top:1px solid #e2d6c6;align-items:center"><div><div style="font-weight:700">Text/H2</div><div class="cap" style="margin-top:4px">Unbounded SemiBold 32 / 120%</div></div><div style="font-family:Unbounded;font-weight:600;font-size:32px;color:#3B2418">Эфиопия Иргачефф</div></div><div style="display:grid;grid-template-columns:300px 1fr;gap:40px;padding:20px 0;border-top:1px solid #e2d6c6;align-items:center"><div><div style="font-weight:700">Text/Body</div><div class="cap" style="margin-top:4px">Manrope Regular 18 / 155%</div></div><div style="font-size:18px;line-height:1.55">Мытая обработка, светлая обжарка. Во вкусе — жасмин, бергамот и персик. Лучше всего раскрывается в воронке V60.</div></div><div style="display:grid;grid-template-columns:300px 1fr;gap:40px;padding:20px 0;border-top:1px solid #e2d6c6;align-items:center"><div><div style="font-weight:700">Text/Caption</div><div class="cap" style="margin-top:4px">Manrope Medium 13 / 140%, капс +8%</div></div><div style="font-size:13px;font-weight:500;letter-spacing:1px;text-transform:uppercase;color:#8C857D">Обжарено 24.10 · 250 г · фильтр</div></div><div style="display:grid;grid-template-columns:300px 1fr;gap:40px;padding:20px 0;border-top:1px solid #e2d6c6;align-items:center"><div><div style="font-weight:700">Text/Accent</div><div class="cap" style="margin-top:4px">Caveat Bold 40</div></div><div style="font-family:Caveat;font-weight:700;font-size:40px;color:#C4613A">с любовью, ваш обжарщик</div></div></div><div class="card" style="width:520px"><div style="font-family:Unbounded;font-weight:700;font-size:120px;color:#3B2418;line-height:1">Аа</div><div style="font-family:Unbounded;font-size:20px;margin:14px 0 26px;color:#3B2418">АБВГДЕЁЖЗИЙКЛМН<br>ОПРСТУФХЦЧШЩЭЮЯ 0123456789</div><div style="font-size:120px;line-height:1;color:#2B2B2B">Аа</div><div style="font-size:20px;margin-top:14px">абвгдеёжзийклмнопрстуфхцчшщъыьэюя<br>Regular · <b>Bold</b> · <span style="font-weight:500">Medium</span></div><div class="cap">Все шрифты — Google Fonts (OFL), бесплатны для коммерции, есть кириллица.</div></div></div><img class="plogo" src="../../logo/r00ast-logo-color.svg"><div class="pnum">R00AST · BRAND BOOK · 06</div></section></body></html>
